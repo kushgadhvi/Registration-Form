@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">REGISTRATION FORM</string>
+    <string-array name="Tech">
+        <item>Android</item>
+        <item>IOS</item>
+        <item>PHP</item>
+        <item>Others</item>
+    </string-array>
+</resources>
